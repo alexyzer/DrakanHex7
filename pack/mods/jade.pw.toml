@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-1.20.1-Forge-11.13.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar"
+hash-format = "sha1"
+hash = "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "LecuGude"

@@ -1,0 +1,13 @@
+name = "Oneironaut Forge"
+filename = "oneironaut-reforgedv1.20.1 - 1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2fBodoPh/versions/uPCjduul/oneironaut-reforgedv1.20.1%20-%201.0.4.jar"
+hash-format = "sha1"
+hash = "e03b323eaa4d768e0111e488f57c7e0dd60af352"
+
+[update]
+[update.modrinth]
+mod-id = "2fBodoPh"
+version = "uPCjduul"

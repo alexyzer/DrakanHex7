@@ -1,0 +1,13 @@
+name = "Chloride (Embeddium++/Sodium++)"
+filename = "chloride-FORGE-mc1.20.1-v1.7.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yD9qW65f/versions/sKb384Nw/chloride-FORGE-mc1.20.1-v1.7.5.jar"
+hash-format = "sha1"
+hash = "b5f658b9328cda4b03080fa0164cf26be23a3e75"
+
+[update]
+[update.modrinth]
+mod-id = "yD9qW65f"
+version = "sKb384Nw"

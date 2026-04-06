@@ -1,0 +1,13 @@
+name = "Applied Spectrometry"
+filename = "appspec-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qN7Lbex/versions/bioxtul0/appspec-1.0.2.jar"
+hash-format = "sha1"
+hash = "86f782c6e16e91bb7d9ffd8ef85386e4ef9a28d9"
+
+[update]
+[update.modrinth]
+mod-id = "9qN7Lbex"
+version = "bioxtul0"

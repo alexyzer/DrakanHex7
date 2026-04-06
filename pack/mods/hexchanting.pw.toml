@@ -1,0 +1,13 @@
+name = "Hexchanting"
+filename = "hexchanting-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UlOmzEJF/versions/GXgD69WU/hexchanting-1.1.7.jar"
+hash-format = "sha1"
+hash = "7079a7a772eef41143a07305e600534830e250e3"
+
+[update]
+[update.modrinth]
+mod-id = "UlOmzEJF"
+version = "GXgD69WU"

@@ -1,0 +1,18 @@
+name = "EasyAuth Local Sessions"
+filename = "easyauth-local-sessions-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k1jAkBeN/versions/JwFvdp3t/easyauth-local-sessions-1.0.0.jar"
+hash-format = "sha1"
+hash = "bcc71da0c7271cb712703f014c860ffe47906d81"
+
+[update]
+[update.modrinth]
+mod-id = "k1jAkBeN"
+version = "JwFvdp3t"
+
+[option]
+optional = true
+description = "Запоминание аккаунта для пиратов."
+default = true

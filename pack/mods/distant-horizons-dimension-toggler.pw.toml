@@ -1,0 +1,17 @@
+name = "Distant Horizons Dimension Toggler"
+filename = "dh_dimension_toggler-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iBCEWjgT/versions/r2zpnYiU/dh_dimension_toggler-1.0.2.jar"
+hash-format = "sha1"
+hash = "2b0b5e9eb12756f1add8103bf19d9bf072616152"
+
+[update]
+[update.modrinth]
+mod-id = "iBCEWjgT"
+version = "r2zpnYiU"
+
+[option]
+optional = true
+description = "Автоматическое отключение Distant Horizons в другхих измерениях."

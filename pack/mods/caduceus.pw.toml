@@ -1,0 +1,13 @@
+name = "Caduceus"
+filename = "caduceus-forge-0.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q6Hj9z4p/versions/4pEZysZU/caduceus-forge-0.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "03355233265491af71fd9384452512009407d401"
+
+[update]
+[update.modrinth]
+mod-id = "Q6Hj9z4p"
+version = "4pEZysZU"

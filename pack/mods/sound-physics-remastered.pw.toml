@@ -1,0 +1,17 @@
+name = "Sound Physics Remastered"
+filename = "sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+hash-format = "sha1"
+hash = "944b4673bcab118f411d050b2cd6b693262bb664"
+
+[update]
+[update.modrinth]
+mod-id = "qyVF9oeo"
+version = "x0sJ9PeR"
+
+[option]
+optional = true
+description = "Мод на физику звуков."

@@ -1,0 +1,17 @@
+name = "Particle Effects"
+filename = "ParticleEffects-1.3.0+1.20.1+forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/lMGWsAAn/ParticleEffects-1.3.0%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "f62ee9c4a40e32fcdc15959c323753ec79a27b2b"
+
+[update]
+[update.modrinth]
+mod-id = "PLAGcSFJ"
+version = "lMGWsAAn"
+
+[option]
+optional = true
+description = "Разные частицы зелий."

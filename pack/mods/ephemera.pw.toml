@@ -1,0 +1,13 @@
+name = "Ephemera"
+filename = "ephemera-forge-1.20.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yMW33ga1/versions/q5gwDyBV/ephemera-forge-1.20.1-0.3.1.jar"
+hash-format = "sha1"
+hash = "de18aaf26b6332529d51ead957644598b83102c9"
+
+[update]
+[update.modrinth]
+mod-id = "yMW33ga1"
+version = "q5gwDyBV"

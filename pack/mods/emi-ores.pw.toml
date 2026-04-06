@@ -1,0 +1,13 @@
+name = "EMI Ores"
+filename = "emi_ores-1.2+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/o0r0h2yg/emi_ores-1.2%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "c821f26e4a00c14fb453bfdb7628aec59fd2acf1"
+
+[update]
+[update.modrinth]
+mod-id = "sG4TqDb8"
+version = "o0r0h2yg"

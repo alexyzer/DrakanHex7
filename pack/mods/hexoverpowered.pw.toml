@@ -1,0 +1,13 @@
+name = "HexOverpowered"
+filename = "HexOverpowered-forge-1.20.1-0.11.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PkhtCPsD/versions/q8B6l0Mn/HexOverpowered-forge-1.20.1-0.11.5.1.jar"
+hash-format = "sha1"
+hash = "340a2de752c07bc0abbb157389e4b9169b0c7844"
+
+[update]
+[update.modrinth]
+mod-id = "PkhtCPsD"
+version = "q8B6l0Mn"

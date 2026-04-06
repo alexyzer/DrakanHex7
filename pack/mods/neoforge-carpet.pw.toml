@@ -1,0 +1,13 @@
+name = "Carpet: NeoForged"
+filename = "forge-carpet-1.20.1-1.0.8+v251027.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XqqOkvZz/versions/XMYeNIOx/forge-carpet-1.20.1-1.0.8%2Bv251027.jar"
+hash-format = "sha1"
+hash = "e9406d0663d812ed2846a406cd902c6d64749fd8"
+
+[update]
+[update.modrinth]
+mod-id = "XqqOkvZz"
+version = "XMYeNIOx"
