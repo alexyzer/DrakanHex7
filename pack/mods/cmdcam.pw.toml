@@ -1,0 +1,17 @@
+name = "CMDCam"
+filename = "CMDCam_FORGE_v2.2.0_mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hZw3uqi3/versions/as7nPEt0/CMDCam_FORGE_v2.2.0_mc1.20.1.jar"
+hash-format = "sha1"
+hash = "77efad128734603800f65fe4c21c8958d74aff2a"
+
+[update]
+[update.modrinth]
+mod-id = "hZw3uqi3"
+version = "as7nPEt0"
+
+[option]
+optional = true
+description = "Камера для съёмок видео."

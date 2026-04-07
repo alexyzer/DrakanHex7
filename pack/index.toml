@@ -245,6 +245,11 @@ hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
 
 [[files]]
+file = "mods/cmdcam.pw.toml"
+hash = "21ff9cf400f3941e9811c467a7b7b2cc140a34dd489ec99d7476b75cb591ecc6"
+metafile = true
+
+[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "ac1b5d2396a45632fb2c273a4cbb5fd0b8d3c6653ed9431360f2edb15a35c76d"
 metafile = true
@@ -296,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "d07bdbfd246533ad3297d39811701df4bb2280adaaffe3431fdf3b85787eb9e6"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "66e768d9aad737d070551ef5c6fb4691b4612df847f9a0257c64692c7deb0ca0"
 metafile = true
 
 [[files]]
@@ -480,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "8d20898eb0682b32d9d0751a1327ecdf61a4fd67433c2d3bcc5d533f3eb3f43b"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "2e76712ba648e7b1b1cbc0ae466ed2ee8dad35485f5060980ba81442296f56a8"
 metafile = true
 
 [[files]]
@@ -706,7 +721,7 @@ hash = "5a5f0fb951e9923b73933078dce7770383b1c0d727a1a6993f3c434eba65e409"
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "e0b3868f01ac63c79a851f6a89bb6f8e763c6fac5ceeb0f63373f1400acb5ca4"
+hash = "7043b1170bccf3153c51a3edce60eaa93d2ab75ec79bdb7c02885dcd1ef1162d"
 metafile = true
 
 [[files]]
@@ -811,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/odyssey-allies.pw.toml"
-hash = "7d5d2755c1b568cb8fe00de9173ca71c12701ab765387506e7aef70f57c680b5"
+hash = "dbcebb51b79b78408a6f17d535fc78d6fa98c033866ff7cc03cb3329a17b11a9"
 metafile = true
 
 [[files]]
@@ -890,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "ac2f1170c68b1ea971031a037ee7f7e208272f646acd042a6158c577a2d1cfd5"
+hash = "5ee34a748e6dd62aba1671e851b85c4bb0346a3d8d908f257c1f7a309d18bb69"
 metafile = true
 
 [[files]]
@@ -999,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/wax-item-frames.pw.toml"
-hash = "fad6644ac16c8336c393d015fef4defca57bd7dcc253db9fa1be29cc9b2fa5fa"
+hash = "8f15ced6788850d49e5529ca78d0b469d5a65c4c18e53e5615b0d5bc3dffb42b"
 metafile = true
 
 [[files]]
