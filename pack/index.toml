@@ -86,6 +86,11 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 preserve = true
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "4589c184ed623436fca4ab512166097a8a09af2d3019b8359eb896cde3cbf5e2"
+preserve = true
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "bba6127fc3ea5ddafffa310cd6fa30bde3bdd571c625bf551736871f0df4301f"
 preserve = true
