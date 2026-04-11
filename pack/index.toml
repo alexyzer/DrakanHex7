@@ -7312,6 +7312,11 @@ hash = "fa862b20f18bd38b7413e352d1fb67d60404cbb68c12087467e050f386e5f655"
 metafile = true
 
 [[files]]
+file = "mods/vampirism.pw.toml"
+hash = "89ba9d08151b3e6968f5814ae3041675c799539f4781222bca6860ceb1526efa"
+metafile = true
+
+[[files]]
 file = "mods/wax-item-frames.pw.toml"
 hash = "8f15ced6788850d49e5529ca78d0b469d5a65c4c18e53e5615b0d5bc3dffb42b"
 metafile = true
@@ -7349,6 +7354,26 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "e59b1afad3abcd2656cb958ee423fa36f6f6a5ec4acd7e2df47865fb9582da66"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "647dc25daba3bac1f6e93e3abedaa80d00c83812595e0cf42df5ae966058e84f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "7e9f9d03e9777945478efb8eedc7e3b23d8986c6f3275cba4e3d6ffb65adb13e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "4353ffe53f1dcf34093430446f30629d5f23ae10839dd766ea4438806d915a78"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "584b719bb17c63ca4bb1432f45af46a17e1bce6307565f13b9c0298bb80f6945"
 metafile = true
 
 [[files]]
@@ -7418,15 +7443,15 @@ hash = "d96872b8f00acb320b81cc068208f10344ad569864223c29a55b74a820e0357d"
 
 [[files]]
 file = "resourcepacks/bacap-language-pack.pw.toml"
-hash = "d8e5749eaf56905aaafa25d90c186bff8cb5b09bb261a90b8b002955f1dcf06d"
+hash = "9b7747e649778c833cf2454a115d4f2b1b6942668f1c38acd702b30df1a21419"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ru-blaze-and-caves-advancements-pack.pw.toml"
-hash = "88f42bbed4f3d142091f9ea27310f039db6bc8d4f72e1654ea496e240451b5bf"
+hash = "dc6184a4ada7a960abc18cb27f18ef1e39880a061c1dcfef44713ad5e7783a89"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f598f0bd6f2c25bd1b5cdc8c31a50dc4e6ac51492b0665322dc70721307aa746"
+hash = "b6e77d96debc3fd8c20ce4a457a876ac830dab195dc85e75cca42d20a6ba0ded"
 metafile = true

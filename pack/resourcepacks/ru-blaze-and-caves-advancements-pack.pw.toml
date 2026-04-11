@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DlwNJUii/versions/hXjZM9ZN/ru_BACAP.zip"
-hash-format = "sha512"
-hash = "83f378023b0d1adb7a0a0057a1cd824466b70b42d65123e3def790b354646c477a891cbeef13b1bf3b636dd246295e17c2387fcae853d82eda7ad815267ef706"
+hash-format = "sha1"
+hash = "af367a28b7ae25ddd34eaa1450986d7eb58b5f5a"
 
 [update]
 [update.modrinth]
