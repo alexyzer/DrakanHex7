@@ -1,0 +1,13 @@
+name = "[Ru] Blaze and Cave's Advancements Pack (BACAP)"
+filename = "ru_BACAP.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DlwNJUii/versions/hXjZM9ZN/ru_BACAP.zip"
+hash-format = "sha512"
+hash = "83f378023b0d1adb7a0a0057a1cd824466b70b42d65123e3def790b354646c477a891cbeef13b1bf3b636dd246295e17c2387fcae853d82eda7ad815267ef706"
+
+[update]
+[update.modrinth]
+mod-id = "DlwNJUii"
+version = "hXjZM9ZN"

@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "hexical:charm",
+        "hexical:conjure_mesh",
+        "hexical:greater_blink",
+        "hexical:promote_lamp",
+        "complexhex:summonblockdisplay",
+        "complexhex:summonitemdisplay",
+        "complexhex:summontextdisplay",
+        "hextweaks:infusion",
+        "hextweaks:you_like_drinking_potions",
+        "ephemera:magearmor",
+        "ephemera:repair",
+        "ephemera:invisibility"
+    ]
+}
