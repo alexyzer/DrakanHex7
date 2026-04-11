@@ -11,3 +11,8 @@ hash = "3667d1ee27d4bbe33dfd01b7e7d0a42f5d50cc1c"
 [update.modrinth]
 mod-id = "OgBgQ2NP"
 version = "10LVfhOk"
+
+[option]
+optional = true
+description = "Приближение предметов в инвентаре."
+default = true
