@@ -91,6 +91,11 @@ hash = "4589c184ed623436fca4ab512166097a8a09af2d3019b8359eb896cde3cbf5e2"
 preserve = true
 
 [[files]]
+file = "config/packetfixer.properties"
+hash = "820adc528c622d59d4cbc090ef671db3e7ce9d3464f8293185973dd78ddf8bed"
+preserve = true
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "bba6127fc3ea5ddafffa310cd6fa30bde3bdd571c625bf551736871f0df4301f"
 preserve = true
