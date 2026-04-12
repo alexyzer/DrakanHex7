@@ -11,3 +11,8 @@ hash = "7388a40f4c86c1af73c452b2eaf92893205c3dec"
 [update.modrinth]
 mod-id = "s9gIPDom"
 version = "4HqSmvZ6"
+
+[option]
+optional = true
+description = "Кастомные модельки игроков.\n(требуют лиц. чтобы загрузить)"
+default = true
