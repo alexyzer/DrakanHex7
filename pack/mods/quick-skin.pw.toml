@@ -11,3 +11,8 @@ hash = "ace85ce63a791ae84d323d469d0b76003ab32718"
 [update.modrinth]
 mod-id = "zAIE84Ch"
 version = "87G3F0Xr"
+
+[option]
+optional = true
+description = "Система своих скинов."
+default = true
