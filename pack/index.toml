@@ -6420,21 +6420,6 @@ file = "mods/Debugify-1.20.1+2.0.jar"
 hash = "0b0851170c0f729436676eece2be9f3b7c306b9706e7744cc05563a186e2e9b8"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
-metafile = true
-
-[[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "448122a913a9588559026b8974a9d1cf75996fbf637c716ab2535b8ccf461cb5"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "3b4408ce2399f0ce9bab2243f3255c73d26f4113bc2438974ca47267ef9df7ea"
-metafile = true
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "022d64395243a6269bda4726f03acf684afb5c9db24bf3fbd9b9323bb9f855a4"
 metafile = true
@@ -6604,6 +6589,11 @@ hash = "5d13f1f4f50cd6c290add668c294ea099b0b3514786da8d20992c715554d65d1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetics-equipment.pw.toml"
+hash = "fa6425d2df7293307e051709f8b9a32fd022d2d4d8b1b3214d38f4c788ca7025"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "8d0e8c34e056c0f0813bd0fd3af81f2993fad015ef5446f05a2f3654a095a85b"
 metafile = true
@@ -6626,6 +6616,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "66e768d9aad737d070551ef5c6fb4691b4612df847f9a0257c64692c7deb0ca0"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
 
 [[files]]
@@ -7313,6 +7308,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "9006645b856cbf04bc4b62cae9e2257871e5137a877556527bf81312602cfba0"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
