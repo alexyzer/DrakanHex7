@@ -6668,6 +6668,10 @@ hash = "3536a1f34a01f70645e10b78f030d913fe1eea791b6c8c6ec1ec3fc5a9d5dfdd"
 metafile = true
 
 [[files]]
+file = "mods/easyauth-local-sessions-1.0.0.jar"
+hash = "8cad78189d65aec5584dd36647eaf9739dd91414faa822538f9aff918189b9dd"
+
+[[files]]
 file = "mods/easyauth-mc1.20-3.4.3.jar"
 hash = "26e0b871c7d73962b16d1d90c9eef490db4ae924d0da021c6df3d532d6d336bd"
 
