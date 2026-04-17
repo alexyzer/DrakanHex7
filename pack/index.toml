@@ -6994,6 +6994,11 @@ hash = "902183df4a8670f1a38abebf586e2b2842329d90115dcc2d9c11851e799fe7f7"
 metafile = true
 
 [[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "c1be7ddccaa7f134cb66caee5a3b5d241356d58b7339f87ad311fd0e52a33d5f"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "0be70f093bba604feabb1d27557c9b4a328ae88b2ac7a7639357b1d644d33049"
 metafile = true
@@ -7140,6 +7145,11 @@ metafile = true
 [[files]]
 file = "mods/odyssey-allies.pw.toml"
 hash = "dbcebb51b79b78408a6f17d535fc78d6fa98c033866ff7cc03cb3329a17b11a9"
+metafile = true
+
+[[files]]
+file = "mods/offlinecommands.pw.toml"
+hash = "46ba0fc6d2ab132f30a157ebae3e596d8ad4fd4875ccde761e4461cf5364f279"
 metafile = true
 
 [[files]]
