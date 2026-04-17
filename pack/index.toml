@@ -6888,8 +6888,8 @@ hash = "4158c451da192a5b93bf986382cbf7a13dc103a7b7036a918ba32e1387bee505"
 metafile = true
 
 [[files]]
-file = "mods/hexcessible-0.2.0-3ab4bb5.jar"
-hash = "eb065442f97f1031ad99eef3b43984a728363a402559d6a377e81997729de405"
+file = "mods/hexcessible-0.2.0-0ec6ad52.jar"
+hash = "1d3bf835c4c8e3ffca7172da916f87ccaabf00bcf3c8c80fddb45f468164f432"
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
