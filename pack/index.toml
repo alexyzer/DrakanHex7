@@ -7113,11 +7113,6 @@ hash = "1e6cf7b38e79ed85e8fb4ab6f5ff2add4a32d9bdb4f97451ecff63733f61c093"
 metafile = true
 
 [[files]]
-file = "mods/neoforge-carpet.pw.toml"
-hash = "3a1ff0e449413dc6f0dee9fbe989ab19fb1e34c699ef8b6df145632cfa8ebed8"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "682f20b3f584d4f736e3a4a892e68a14d89d04f6e6bea79d537a5016e071c669"
 metafile = true
