@@ -6949,11 +6949,6 @@ hash = "84264def774e2a1691e6e09b70dc6f93062e3c32f3dccca54a94891cfe00f322"
 metafile = true
 
 [[files]]
-file = "mods/hexstruction.pw.toml"
-hash = "47ec1099bfb67fd4c154edb1d1c91d0ae853163c71fa9a88acaf301111845440"
-metafile = true
-
-[[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "b087b3186c5172217a91a4face9843182dac07426d57e66e0c1f83744ef184fe"
 metafile = true
