@@ -6,6 +6,10 @@ hash = "8ca838b027eed8af3374e9f7c3a03da67a1bcd461ed4408d0a86fdfecff5f42a"
 preserve = true
 
 [[files]]
+file = "config/accessories.json5"
+hash = "e145977e6a22cee3ece964a9823f38f3801fc91ef143bf8efe0a592821b42c26"
+
+[[files]]
 file = "config/ae2/client.json"
 hash = "ed18e7409f2b85c76608d080d7c5954ab55a702f56d659c47b3fc56e597a0ea2"
 preserve = true
