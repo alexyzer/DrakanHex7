@@ -7033,6 +7033,11 @@ hash = "1ebe3280f7a3f385898ea7c0398d0cf16ad977084771d01e13677b78304604f6"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "b39d4c2b7436f20b905dc494238872474d8d460c8c274633b8b434fa9702962d"
+metafile = true
+
+[[files]]
 file = "mods/lapisworks-1.5.8-c0b77e7.jar"
 hash = "5a5f0fb951e9923b73933078dce7770383b1c0d727a1a6993f3c434eba65e409"
 
