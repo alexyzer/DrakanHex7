@@ -6424,6 +6424,10 @@ file = "mods/Debugify-1.20.1+2.0.jar"
 hash = "0b0851170c0f729436676eece2be9f3b7c306b9706e7744cc05563a186e2e9b8"
 
 [[files]]
+file = "mods/Vampirism-1.20.1-1.10.15-build+260421-1800.jar"
+hash = "b8e9ed63491b8f15f3205ba7873f07f9adc0d8552b8ac80c113a314f8cfe3fab"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
 metafile = true
@@ -7327,11 +7331,6 @@ metafile = true
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "fa862b20f18bd38b7413e352d1fb67d60404cbb68c12087467e050f386e5f655"
-metafile = true
-
-[[files]]
-file = "mods/vampirism.pw.toml"
-hash = "89ba9d08151b3e6968f5814ae3041675c799539f4781222bca6860ceb1526efa"
 metafile = true
 
 [[files]]
