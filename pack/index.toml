@@ -7052,11 +7052,6 @@ hash = "fc58a0d1e16209cb70ac48a5dc9b06919790c3feb64a1bb3be07d3b82b903999"
 metafile = true
 
 [[files]]
-file = "mods/lost-cities-modern-tweaks.pw.toml"
-hash = "726c242e9e495151e06dd6dd5c1e192248820e195f2aff37dd98a16ee400b6e6"
-metafile = true
-
-[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "66b813756e03596a32c97d505faba196426ec5064beaa00a8d5f500adc440774"
 metafile = true
@@ -7317,11 +7312,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "72ae7181423ee95414e56a5299a90dc909e7fa7d4ffc550e927a0e54bc887cdb"
-metafile = true
-
-[[files]]
-file = "mods/the-lost-cities.pw.toml"
-hash = "9006645b856cbf04bc4b62cae9e2257871e5137a877556527bf81312602cfba0"
 metafile = true
 
 [[files]]
