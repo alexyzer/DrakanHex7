@@ -6852,6 +6852,11 @@ file = "mods/gravity-changer-1.1.2+mc1.20.1-coco875-fork.jar"
 hash = "dc7ab696067d87b95bf38b309bded3794a1aec3f89f66ab32882afbc07dadb8e"
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "6406896463cb7c34d86cbe583b6fb2852c2306129d9770e403d817ac451a81a4"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "80bf4c39aea089a1ef4284fdd160a4283949ed921b4428551405c68c6a063974"
 metafile = true
@@ -7311,6 +7316,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
