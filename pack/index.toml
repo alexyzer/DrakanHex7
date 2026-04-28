@@ -6814,6 +6814,11 @@ hash = "8d20898eb0682b32d9d0751a1327ecdf61a4fd67433c2d3bcc5d533f3eb3f43b"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "50ec52c5c84ffb604eacdd19b27a5660f6f2e8365b168f108b68a6ccc96fa8ee"
+metafile = true
+
+[[files]]
 file = "mods/forgematica.pw.toml"
 hash = "2e76712ba648e7b1b1cbc0ae466ed2ee8dad35485f5060980ba81442296f56a8"
 metafile = true
