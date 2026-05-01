@@ -6420,10 +6420,6 @@ hash = "fc7630611bb31298d5cff83a0a71ea9926a2fa72f5094d3301a5d82f7691a0cd"
 preserve = true
 
 [[files]]
-file = "mods/Debugify-1.20.1+2.0.jar"
-hash = "0b0851170c0f729436676eece2be9f3b7c306b9706e7744cc05563a186e2e9b8"
-
-[[files]]
 file = "mods/Vampirism-1.20.1-1.10.15-build+260421-1800.jar"
 hash = "b8e9ed63491b8f15f3205ba7873f07f9adc0d8552b8ac80c113a314f8cfe3fab"
 
