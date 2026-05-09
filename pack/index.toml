@@ -7162,11 +7162,6 @@ hash = "dbcebb51b79b78408a6f17d535fc78d6fa98c033866ff7cc03cb3329a17b11a9"
 metafile = true
 
 [[files]]
-file = "mods/offlinecommands.pw.toml"
-hash = "46ba0fc6d2ab132f30a157ebae3e596d8ad4fd4875ccde761e4461cf5364f279"
-metafile = true
-
-[[files]]
 file = "mods/oneironaut-reforged.pw.toml"
 hash = "9b0781dd5b59ad91f500d36fff41f5aa5cb69313206c90c9dbf40b9f8e8ecc12"
 metafile = true
