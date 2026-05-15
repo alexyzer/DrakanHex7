@@ -6608,6 +6608,11 @@ hash = "5d13f1f4f50cd6c290add668c294ea099b0b3514786da8d20992c715554d65d1"
 metafile = true
 
 [[files]]
+file = "mods/create-air-ducts.pw.toml"
+hash = "db9710ebd6cb50c48c7f25ebab60a54f39d90a38eb7679f252b0db7d0b7e2eda"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "8d0e8c34e056c0f0813bd0fd3af81f2993fad015ef5446f05a2f3654a095a85b"
 metafile = true
