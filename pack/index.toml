@@ -6608,6 +6608,11 @@ hash = "5d13f1f4f50cd6c290add668c294ea099b0b3514786da8d20992c715554d65d1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/create-air-ducts.pw.toml"
 hash = "db9710ebd6cb50c48c7f25ebab60a54f39d90a38eb7679f252b0db7d0b7e2eda"
 metafile = true
