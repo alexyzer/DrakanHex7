@@ -11,8 +11,3 @@ hash = "64228adb77ac2c38bc65f47de5086200e42c5a8e918289e66e65108ddf97070664022830
 [update.modrinth]
 mod-id = "nbg22QFg"
 version = "2IKVjueV"
-
-[option]
-optional = true
-description = "Отладка крашей (для админов)."
-default = false

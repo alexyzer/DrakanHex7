@@ -6619,7 +6619,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-utilities.pw.toml"
-hash = "f8a0160d08ab662ebcb90b2ac2e98c8293fe810393c57d6c1ce946161a7a39ac"
+hash = "32d64ee4278590905ccf2f14274e714a769670fbe7c3d55d865e9612983522e5"
 metafile = true
 
 [[files]]
