@@ -6614,7 +6614,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-air-ducts.pw.toml"
-hash = "db9710ebd6cb50c48c7f25ebab60a54f39d90a38eb7679f252b0db7d0b7e2eda"
+hash = "3408f06ce6a490e8f2c8df7874408b12e156acda6cbc3550550612584e8786de"
 metafile = true
 
 [[files]]
