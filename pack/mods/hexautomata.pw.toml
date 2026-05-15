@@ -1,13 +1,13 @@
 name = "HexAutomata"
-filename = "HexAutomata-forge-1.20.1-0.3.0.jar"
+filename = "HexAutomata-forge-1.20.1-0.3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7IlfT3Vo/versions/UxGLvr0g/HexAutomata-forge-1.20.1-0.3.0.jar"
-hash-format = "sha1"
-hash = "30921675f8e395aa70c7989f17761d0591f183ad"
+url = "https://cdn.modrinth.com/data/7IlfT3Vo/versions/JWpnF3hk/HexAutomata-forge-1.20.1-0.3.4.jar"
+hash-format = "sha512"
+hash = "683583dbae17c920b7ae82fb74ef2aa9b5b61a12c1b0ccc98b9f60c045e3a957f77748c7ba4b37b4e01e72c2b71453b54cec1dc546cdf731a909f730ac2cf595"
 
 [update]
 [update.modrinth]
 mod-id = "7IlfT3Vo"
-version = "UxGLvr0g"
+version = "JWpnF3hk"

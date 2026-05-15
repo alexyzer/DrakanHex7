@@ -1,13 +1,13 @@
 name = "HexFlow"
-filename = "hexFlow-forge-1.20.1-0.5.jar"
+filename = "hexFlow-forge-1.20.1-0.5.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/xaVcA7m4/hexFlow-forge-1.20.1-0.5.jar"
-hash-format = "sha1"
-hash = "55c7b8ce74841002ebcf7fd1b4777a5f41bc9e92"
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/FVO4p76I/hexFlow-forge-1.20.1-0.5.1.1.jar"
+hash-format = "sha512"
+hash = "5196105cddaf105425b9ab7697fce14bb339636382f2ce507de83387d519bfc105bd1fff5754ef4352ee775adc5f06b7a9353ff90726c5a07034607e93c5da58"
 
 [update]
 [update.modrinth]
 mod-id = "MRC1BQpK"
-version = "xaVcA7m4"
+version = "FVO4p76I"
