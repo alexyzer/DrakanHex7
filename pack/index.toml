@@ -7132,6 +7132,11 @@ hash = "174438da0f3741615f7ae2ad861fed0f1c72f51fe1a8aaf0acc1e8597c069417"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "997cb276aa38c339f56b6c08107410ff908d9a52b2459184c365107baf636155"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "1e6cf7b38e79ed85e8fb4ab6f5ff2add4a32d9bdb4f97451ecff63733f61c093"
 metafile = true
