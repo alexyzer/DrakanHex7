@@ -6613,6 +6613,16 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "aeb4f7e7fb26a2eecfefbcb0695ab78d50160cec8051c305a8068355cbaae966"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "ab11ea43bb8670094832a19e11f5f71b883c682c97b9f20236a992616d16799a"
+metafile = true
+
+[[files]]
 file = "mods/create-air-ducts.pw.toml"
 hash = "3408f06ce6a490e8f2c8df7874408b12e156acda6cbc3550550612584e8786de"
 metafile = true
