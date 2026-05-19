@@ -7458,6 +7458,10 @@ file = "moonlight-global-datapacks/DrakanHex/data/complexhex/loot_tables/blocks/
 hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/createdieselgenerators/recipes/crushing/wood_chip_logs.json"
+hash = "033e722c42b5181e318385c0d0044e3a4d6a3d907e9b1f02ac365137360c10a0"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexal/loot_tables/blocks/relay.json"
 hash = "c5dfcf720fc97b291da290d3b509102a2c12cb17c11b178c4f1dbdac5b6f8f63"
 
