@@ -7374,6 +7374,11 @@ hash = "f128e36824595fd95dd6e714d9de22f7319bdf8b31a9c7d43799217a41e9f3f5"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "a0db24950948f1dd5e0b5dda408c5c1f40ac617a08e60de527ac6720dafd49c9"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "77c5bf0d72f21521fa00452124d4f59f535633aaee1785e4da470602dde454ab"
 metafile = true
