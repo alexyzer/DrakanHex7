@@ -30,6 +30,10 @@ hash = "f37d9150435ab7b2b4273f7dce424be40f660c9dd8d82fb376ee9088f297d21c"
 preserve = true
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "3bfca43b8a0c909d6020bb1c8de27f7f303db7449db924afdadd85262b47f5c9"
+
+[[files]]
 file = "config/create_connected-common.toml"
 hash = "bb3d13b619b8eaf0236ec23fb81407a8b29af778076b16694941b854f7ffa722"
 preserve = true
