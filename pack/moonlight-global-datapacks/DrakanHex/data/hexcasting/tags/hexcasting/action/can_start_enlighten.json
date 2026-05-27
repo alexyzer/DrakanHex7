@@ -4,6 +4,7 @@
         "hexical:charm",
         "hexical:conjure_mesh",
         "hexical:greater_blink",
+        "hexical:promote_lamp",
         "complexhex:summonblockdisplay",
         "complexhex:summonitemdisplay",
         "complexhex:summontextdisplay",
@@ -11,6 +12,12 @@
         "hextweaks:you_like_drinking_potions",
         "ephemera:magearmor",
         "ephemera:repair",
-        "ephemera:invisibility"
+        "ephemera:invisibility",
+        "hex_machina:expose_mind",
+        "oneironaut:infusemedia",
+        "oneironaut:dimteleport",
+        "oneironaut:swapspace",
+        "oneironaut:applynotmissing",
+        "oneironaut:resistdetection"
     ]
 }

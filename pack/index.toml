@@ -7467,32 +7467,56 @@ file = "moonlight-global-datapacks/DrakanHex/data/createdieselgenerators/recipes
 hash = "033e722c42b5181e318385c0d0044e3a4d6a3d907e9b1f02ac365137360c10a0"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/load.mcfunction"
+hash = "d96bb842a9ade7104b4b182eb7435907e4e52c0973a60b31d7e369e1394adeb4"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/slowtick.mcfunction"
+hash = "013ef10fc56bf352911e15b79545a9f646dd1086c9fc1ad7d1a2c625d9ec76a7"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/forge/tags/items/raw_meats.json"
+hash = "9a60bc84f0a0b43303e66ee6b2b4e32ac4a712861bab4211e3fd82d880aa408a"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexal/loot_tables/blocks/relay.json"
 hash = "c5dfcf720fc97b291da290d3b509102a2c12cb17c11b178c4f1dbdac5b6f8f63"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/can_start_enlighten.json"
-hash = "d23c80dcfdad6b5e97b932edbe1d00aee1bdedc2e1b15a5e6b40ec03e1bab404"
+hash = "01104e3c4c68ccd1027e2face6bbbb4e07fdc3ac14b776854ebebffaf2684250"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/per_world_pattern.json"
-hash = "05e06cbf7de021b4c84edfa318eaf6e34a146d3af50572a6700f8027f606acfc"
+hash = "01104e3c4c68ccd1027e2face6bbbb4e07fdc3ac14b776854ebebffaf2684250"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/requires_enlightenment.json"
-hash = "5e9b913b95abb5c981cafa71ef13f1c9e2ccf226897f089b9a747c95794cf240"
+hash = "10bf06723c59dc775303c0813d4594c3cb43a7645f3b69a092352116fccadf96"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/lapisworks/loot_tables/blocks/cradle.json"
 hash = "ffea41763cde40dcdd490a6de0b6d812f2239e0e0fa752c859331cbbd5855951"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/lapisworks/recipes/base/chalk.json"
+hash = "2e98f3020d1835473a96fdb350e002f3aa8fe6293bd99f3133e81d8399eadd98"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/lapisworks/recipes/base/totem_necklace.json"
+hash = "2e98f3020d1835473a96fdb350e002f3aa8fe6293bd99f3133e81d8399eadd98"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/lapisworks/recipes/lapixical/cradle.json"
-hash = "ee8b980f4c554971a71e5464e834574a118fe8e177028f45672f08872855954c"
+hash = "2e98f3020d1835473a96fdb350e002f3aa8fe6293bd99f3133e81d8399eadd98"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/blocks/mineable/pickaxe.json"
 hash = "2cde23524f75cfd5506fb1ae87c84a58a1e9ebbd444f034bb6e64364a1646e08"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/functions/load.json"
+hash = "6b951052889ee06eaf9ec74f7626d9846c3191cc5518d2f8ca5d361036bd430e"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/items/music_discs.json"
