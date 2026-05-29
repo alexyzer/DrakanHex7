@@ -6959,6 +6959,11 @@ file = "mods/hexical-2.0.0-ea488a.jar"
 hash = "011ae858bba2bd3fd4cc35503f833272b86e36437e7aeb16d223a2ba3abe757f"
 
 [[files]]
+file = "mods/hexintent.pw.toml"
+hash = "14b3264d63890aa0d02eb3c701e73941427876529dccd2c24d7de7a8408ce9cb"
+metafile = true
+
+[[files]]
 file = "mods/hexodus.pw.toml"
 hash = "206c2fa79fea2298513a362b7a7d37cfa87828ffc8ab8aed5ad8b3253db0b486"
 metafile = true
