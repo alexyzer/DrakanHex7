@@ -6744,6 +6744,11 @@ hash = "724ef5d1976e623bccf155159410708893b16fb1f35911ab7911ef6f047552ad"
 metafile = true
 
 [[files]]
+file = "mods/emiaccelerator.pw.toml"
+hash = "fb41a85587852d905cd780997b1e8680b7b2640adc2595e561c2f60a55273c27"
+metafile = true
+
+[[files]]
 file = "mods/emienchants.pw.toml"
 hash = "73ea8b5d2b98240dc86c959590815d86bcd0ba9ad85f2cf938555e82c7ffd545"
 metafile = true
