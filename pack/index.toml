@@ -6804,9 +6804,8 @@ hash = "5d5398be66a014f0b927e43d790f4848cc69584bbe9bbb64467fc97046f58239"
 metafile = true
 
 [[files]]
-file = "mods/extrabotany.pw.toml"
-hash = "6ba3cc1b28dab0c23789e1423767eec35b4a9bd70e9d0e34ad04d3a3aca8eb60"
-metafile = true
+file = "mods/extrabotany-forge-1.20.1-1.9.2-SNAPSHOT.jar"
+hash = "91da3f03078d9b87947efcd23b827ab25620f0cf07c4108b90287722fd922751"
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
