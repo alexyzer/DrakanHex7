@@ -7086,8 +7086,8 @@ hash = "fb91afd69b4cb3ff178229f7e1e199a34ae956b99cd81e0a29290e26c065a74f"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks-1.5.8.5-af71f4d9.jar"
-hash = "a46974278e91558d99c11235233011fc12bc3cf18e6d5796253a5abdf0bbda30"
+file = "mods/lapisworks-1.5.8.5-309a0b5f.jar"
+hash = "08fdfb6fb05dd5380e1eb2f1e250acde2ccbca96f999a92a64b853bdc2e86ffe"
 
 [[files]]
 file = "mods/lmft.pw.toml"
